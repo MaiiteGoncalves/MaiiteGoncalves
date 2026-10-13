@@ -1,15 +1,15 @@
-# 👩🏻‍💻 Anderson Gonçalves
+# 👩🏻‍💻 Maite Gonçalves
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Anderson Matheus Gonçalves Bernardes, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no ano de 2024. E atualmente, estou cursando Engenharia de software na UMC. Tenho grande interesse em tecnologia e busco sempre aprender e dividir o que descubro.
+Me chamo Maite Gonçalves Bernardes, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no ano de 2024. E atualmente, estou cursando Engenharia de software na UMC. Tenho grande interesse em tecnologia e busco sempre aprender e dividir o que descubro.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/anderson-matheus-563372359?">
+    <a href="https://www.linkedin.com/in/maite-gon%C3%A7alves-563372359">
         <img 
             alt="linkedin" 
             title="Me siga no linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AndMaty?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=linkedin"
+            src="https://custom-icon-badges.demolab.com/github/stars/maite-gon%C3%A7alves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=linkedin"
         />
     </a>
     <a href="https://github.com/AndMaty?tab=followers">
