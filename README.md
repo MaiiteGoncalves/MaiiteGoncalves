@@ -11,14 +11,6 @@ Me chamo Maite Gonçalves Bernardes, tenho 19 anos e sou natural de São Paulo. 
             title="Me siga no linkedin" 
             src="https://custom-icon-badges.demolab.com/github/stars/maite-gon%C3%A7alves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=linkedin"
         />
-    </a>
-    <a href="https://github.com/AndMaty?tab=followers">
-        <img 
-            alt="GitHub" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AndMaty?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&github=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
